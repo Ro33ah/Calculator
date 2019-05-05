@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.2\CalculatorApp.deps.json
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.2\CalculatorApp.runtimeconfig.json
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.2\CalculatorApp.runtimeconfig.dev.json
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.2\CalculatorApp.dll
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.2\CalculatorApp.pdb
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.AssemblyInfo.cs
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.dll
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.pdb

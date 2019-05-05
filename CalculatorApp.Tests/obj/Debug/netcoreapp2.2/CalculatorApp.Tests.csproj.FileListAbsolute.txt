@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\bin\Debug\netcoreapp2.2\CalculatorApp.Tests.deps.json
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\bin\Debug\netcoreapp2.2\CalculatorApp.Tests.runtimeconfig.json
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\bin\Debug\netcoreapp2.2\CalculatorApp.Tests.runtimeconfig.dev.json
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\bin\Debug\netcoreapp2.2\CalculatorApp.Tests.dll
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\bin\Debug\netcoreapp2.2\CalculatorApp.dll
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\bin\Debug\netcoreapp2.2\CalculatorApp.pdb
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\obj\Debug\netcoreapp2.2\CalculatorApp.Tests.csprojAssemblyReference.cache
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\obj\Debug\netcoreapp2.2\CalculatorApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\obj\Debug\netcoreapp2.2\CalculatorApp.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\obj\Debug\netcoreapp2.2\CalculatorApp.Tests.AssemblyInfo.cs
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\obj\Debug\netcoreapp2.2\CalculatorApp.Tests.csproj.CopyComplete
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\bin\Debug\netcoreapp2.2\CalculatorApp.Tests.pdb
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\obj\Debug\netcoreapp2.2\CalculatorApp.Tests.dll
+C:\Users\User\Documents\Bauhaus\self_dev\intern_appl\CalculatorApp\CalculatorApp.Tests\obj\Debug\netcoreapp2.2\CalculatorApp.Tests.pdb
